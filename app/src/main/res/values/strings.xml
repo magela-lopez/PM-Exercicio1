@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App01</string>
+    <string name="trocar">Trocar</string>
+    <string name="escreva_seu_texto">Escreva seu texto</string>
+</resources>
